@@ -1,0 +1,12 @@
+print("Mad Libs")
+firstNoun = input("Give me an plural noun(Unless it's a word like Pizza or lamb.) (Pls, capital). ")
+firstAdjective = input("Give me an adjective,please. ")
+secondAdjective = input("GIVE ME AN ADJECTIVE!!!")
+firstVow = input("Type either the word sware or vow")
+firstVerb = input("Give me a verb(The programmer has terrible manners.) ")
+firstProperNoun = input("Give me a plural proper noun")
+secondVerb = input("Gimme a verb" )
+secondNoun = input("Give me a noun!!Noun's rule!!")
+thirdVerb = input("Gimme a verb")
+print(firstNoun +" is/are so " + firstAdjective + ". It is so " + secondAdjective + " That I " + firstVow + " That I will " + firstVerb + " it to " + firstProperNoun
++". " + secondVerb + " me, in my " + secondNoun + " to " + thirdVerb + " forever!!!!!")   
